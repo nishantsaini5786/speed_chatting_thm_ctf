@@ -137,7 +137,6 @@ THM{R3v3rs3_Sh3ll_L0v3_C0nn3ct10ns}
 
 <img width="1920" height="1080" alt="Screenshot_2026-10-13_14_28_14" src="https://github.com/user-attachments/assets/572e8aba-8df3-4d80-8378-1fbdd30b7437" />
 <img width="1920" height="1080" alt="Screenshot_2026-10-13_14_28_20" src="https://github.com/user-attachments/assets/f37e1505-3432-4a6a-b7cc-0db703c5487d" />
-<img width="1920" height="1080" alt="Screenshot_2026-10-13_14_34_24" src="https://github.com/user-attachments/assets/30c44936-9391-40a5-a7a7-dd2db0be2991" />
 <img width="1920" height="1080" alt="Screenshot_2026-10-13_14_41_54" src="https://github.com/user-attachments/assets/c1fb35ed-76f8-42b2-bb6f-be237479cc0d" />
 <img width="1920" height="1080" alt="Screenshot_2026-10-13_14_42_50" src="https://github.com/user-attachments/assets/5c521fe8-ac8b-4e60-91fc-205dfe70a103" />
 ---
